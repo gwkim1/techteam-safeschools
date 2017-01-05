@@ -30,7 +30,6 @@ This is a GitHub repository for a web development project by Uchicago Techteam, 
     - Some other resources (Feel free to learn for yourself)
       - <a href="http://www.w3schools.com/">W3Schools</a>
       - <a href="https://www.codecademy.com/learn/web">Codecademy</a>
-
   - Useful Websites (More to come)
     - <a href="https://fonts.google.com/">Google Fonts</a> for new fancy fonts.
     - <a href="https://color.adobe.com/create/color-wheel">Adobe Color Wheel</a> for choosing a color scheme for your website.
