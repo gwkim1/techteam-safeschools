@@ -1,4 +1,4 @@
-# TechTeam Winter 2017 Workshops - Illinois Safe Schools Alliance
+# Winter 2017 Workshops - Illinois Safe Schools Alliance
 
 This is a GitHub repository for a web development project by Uchicago Techteam, Winter 2017.
 
