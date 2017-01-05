@@ -58,7 +58,8 @@
 - TBD
 
 # Week 9 / February 23
-- Continue building website
+- Finish off building website
+- Create a short manual to help the client with updating content.
 - HTML/CSS 7 (or maybe JavaScript depending on our progress)
 
 ### For Next Time
