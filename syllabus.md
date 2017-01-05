@@ -66,4 +66,4 @@
 - TBD
 
 # Week 10 / March 2
-- Presentation of completed website to client.
+- Presentation of the completed website to client.
