@@ -40,7 +40,7 @@ This is a GitHub repository for a web development project by Uchicago Techteam, 
   2. Create a <a href="https://github.com/">GitHub account</a> if you don't have one.
     - Once you create an account, verify your email address
     - Let me know what your account name is, and accept my invitation to this project.
-  3. Install Chrome if you don't have it already. 
+  3. Install <a href="https://www.google.com/chrome/browser/features.html?brand=CHBD&gclid=COz4lp-YqtECFYOGaQodFt4LqA&dclid=CLWpnp-YqtECFVE5TwodG5MBzQ">Chrome</a> if you don't have it already. 
     - We will be using <a href="https://developers.google.com/web/tools/chrome-devtools/">Chrome DevTools</a> to easily inspect HTML elements and its CSS styling.
   4. Install a text editor.
     - We will be using a text editor to edit HTML and CSS files.
