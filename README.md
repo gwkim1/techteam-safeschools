@@ -18,6 +18,8 @@ This is a GitHub repository for a web development project by Uchicago Techteam, 
 
 ## Useful Links
   - <a href="http://illinoissafeschools.org/">Current Website for Safe Schools</a>
+    - Alternative web designs our client loved: <a href="http://icah.org">ICAH</a>, <a href="">BYP100</a>
+    - Previous website created by Techteam using Squarespace: <a href="http://greenstarmovement.org/">Green Star Movement</a>
     - NOTE: You must log in with administrator account to gain access to the list of available pages and files.
     - The list of pages and files can be found <a href="http://illinoissafeschools.org/admin/content">here</a>.
   - <a href="https://www.squarespace.com/">Squarespace</a>
