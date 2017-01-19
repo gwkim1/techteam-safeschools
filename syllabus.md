@@ -23,7 +23,17 @@
 - HTML/CSS 2
 
 ### For Next Time
-- TBD
+- Read the following pages at <a href="https://support.squarespace.com/hc/en-us/articles/206795137">Squarespace User Guide</a> (These are short articles, so it shouldn't take a long time)
+    - Pages and Content - Overview (read all subpages)
+    - Pages and Content - Regular Pages (read all subpages)
+    - Pages and Content - Blocks (for this category, only read the following)
+        - What are blocks?
+        - Adding blocks
+        - Moving blocks
+        - Creating columns and rows with blocks
+        - Resizing blocks
+        - Deleting a block
+        - Feel free to check out the rest, especially pages for each type of block
 
 # Week 4 / January 12
 - Chrome DevTools, Google Fonts
