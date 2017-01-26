@@ -35,7 +35,7 @@
         - Deleting a block
         - Feel free to check out the rest, especially pages for each type of block
 
-# Week 4 / January 12
+# Week 4 / January 26
 - Chrome DevTools, Google Fonts
 - HTML/CSS 3
 - Individually assign pages to create using Squarespace
@@ -43,31 +43,31 @@
 ### For Next Time
 - TBD
 
-# Week 5 / January 26
+# Week 5 / February 2
 - Start building website using Squarespace
 - HTML/CSS 4
 
 ### For Next Time
 - TBD
 
-# Week 6 / February 2
+# Week 6 / February 9
 - midterm week (subject to change depending on your midterm dates)
 
-# Week 7 / February 9
+# Week 7 / February 16
 - Continue building website
 - HTML/CSS 5
 
 ### For Next Time
 - TBD
 
-# Week 8 / February 16
+# Week 8 / February 23
 - Continue building website
 - HTML/CSS 6
 
 ### For Next Time
 - TBD
 
-# Week 9 / February 23
+# Week 9 / March 2
 - Finish off building website
 - Create a short manual to help the client with updating content.
 - HTML/CSS 7 (or maybe JavaScript depending on our progress)
@@ -75,5 +75,5 @@
 ### For Next Time
 - TBD
 
-# Week 10 / March 2
+# Week 10 / March 9
 - Presentation of the completed website to client.
