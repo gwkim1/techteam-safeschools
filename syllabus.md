@@ -38,10 +38,9 @@
 # Week 4 / January 26
 - Chrome DevTools, Google Fonts
 - HTML/CSS 3
-- Individually assign pages to create using Squarespace
 
 ### For Next Time
-- TBD
+- Start adding pages to Squarespace! (once assigned)
 
 # Week 5 / February 2
 - Start building website using Squarespace
